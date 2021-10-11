@@ -2,7 +2,7 @@
 
 This is the file with the instructions to execute the program and the algorithm implemented to solve the exercises. 
 
-This project is related to solve 2 different exercises to digitalize circles.
+The objetive of this project is solving 2 different exercises to digitalize circles using geometry and simple algorithms.
 Please, first of all, Install Java (JAVASE-10) and Eclipse to execute the files. Here are the links to download the programs:
 https://www.oracle.com/java/technologies/java-archive-javase10-downloads.html  
 https://www.eclipse.org/downloads/ 
